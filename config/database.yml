@@ -1,0 +1,21 @@
+development:
+  adapter: mysql
+  host: localhost
+  database: consolo_development
+  username: andrew
+  password: 
+
+test:
+  adapter: mysql
+  database: consolo_test
+  host: localhost
+  username: andrew
+  password:
+
+production:
+  adapter: mysql
+  database: consolo_development
+  host: localhost
+  username: andrew
+  password:
+
